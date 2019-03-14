@@ -3,17 +3,17 @@ This is a tracker of my DevOps Journey - learning &amp; projects.
 ---
 
 ### Projects
-<br>**When**<br>
+**When**  
 February 2019 - 
 
-**Project Description**<br>
+**Project Description**  
 Tranquility Base is the official GFT branding for the reference architecture project that started in October 2018.
 The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 the following:
 - How to build a modern application architecture using microservices
 - How to use Google Cloud to achieve this
 - How GFT can help roll this architecture out in a highly regulated industry such as financial services
 
-**Responsibilites**<br>
+**Responsibilites**  
 - Deploying Jenkins GKE Cluster using Terraform and Helm
 - Implementing CI/CD pipeline using Jenkins:
 1) automated process from code change in Google Repository, building Docker images and putting them in Google Registry to development environment (Google Kubernetes Engine Cluster) with five microservices
@@ -23,7 +23,7 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 - Implementing autoscaling and health checks (liveness and readiness probes)
 - Implemented Grafana dashboard for autoscaling purpose
 
-<br><br>**Technologies Used**<br>
+**Technologies Used**<br>
 - Kubernetes
 - Google Kubernetes Engine
 - Google Cloud Platform
@@ -36,11 +36,12 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 - Helm
 - Linux
 ---
-**When**<br>
+**When**  
 November 2018 - January 2019
-<br><br>**Project Description**<br>
+<br><br>**Project Description**  
 Re-engineering of the client's Trade Surveillance platform for scalability, performance and ease of implementing new features to the platform and on-boarding with new clients. The platform architecture was redefined to meet the above requirements. The system analyzed incoming market data from the fraud detection perspective and raise real-time alerts based on predefined rules.
-<br><br>**Responsibilites**<br>
+
+**Responsibilites**  
 * Productionization of the platform
 * Coordinating technical activities with the client's team
 * Deploying the application platform on top of Openshift on VM / Google Cloud Platform
@@ -49,7 +50,8 @@ Re-engineering of the client's Trade Surveillance platform for scalability, perf
 * Managing and encrypting secrets inside the cluster
 * Assessing disconnected Openshift installation and preparing prerequisites for a client to deploy Openshift in disconnected environment<br>Assessed GlusterFS and heketi as Persistent Volume storage (created procedure how to do it and deployed on test cluster), as well as automatic way to restart Openshift pods in specific order
 * Documenting all the work - procedures, how to articles
-<br><br>**Technologies Used**<br>
+
+**Technologies Used**  
 * Openshift
 * Kubernetes
 * Docker
