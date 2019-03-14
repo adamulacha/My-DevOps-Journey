@@ -44,6 +44,7 @@ Re-engineering ofthe client's Trade Surveillance platform for scalability, perfo
 * Terraform
 * Prometheus
 * Grafana
+---
 
 | When          | Project Description   | Responsibilites    | Technologies Used  |
 | ------------- | --------------------- | ------------------ | ------------------ |
