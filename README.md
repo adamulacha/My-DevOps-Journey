@@ -12,7 +12,7 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 - How to use Google Cloud to achieve this
 - How GFT can help roll this architecture out in a highly regulated industry such as financial services
 
-<br><br>**Responsibilites**<br>
+**Responsibilites**<br>
 - Deploying Jenkins GKE Cluster using Terraform and Helm
 - Implementing CI/CD pipeline using Jenkins:
 1) automated process from code change in Google Repository, building Docker images and putting them in Google Registry to development environment (Google Kubernetes Engine Cluster) with five microservices
