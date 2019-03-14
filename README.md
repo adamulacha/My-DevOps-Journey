@@ -1,7 +1,9 @@
 # My DevOps Journey
 This is a tracker of my DevOps Journey - projects & learning.
----
 
+In 2018 I decided to switch into DevOps role. After 16 years in Operations, mainly supporting legacy, monolith applications, the world of microservices, containers, Kubernetes, cloud and all other buzz words was quite a shock! I had to change my mindset and learn a lot about new approach and modern technologies. All I can say it was absolutely worth it! Apart from doing a lot of self-study, there were many friendly people who are still there to help me on my DevOps Journey (thanks not only to GFT DevOps Family!) 
+
+---
 ### Projects
 **When**  
 February 2019 - 
