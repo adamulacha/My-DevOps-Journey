@@ -33,7 +33,7 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 - Helm
 - Linux
 ---
-<br>**When**<br>
+**When**<br>
 November 2018 - January 2019
 <br><br>**Project Description**<br>
 Re-engineering of the client's Trade Surveillance platform for scalability, performance and ease of implementing new features to the platform and on-boarding with new clients. The platform architecture was redefined to meet the above requirements. The system analyzed incoming market data from the fraud detection perspective and raise real-time alerts based on predefined rules.
