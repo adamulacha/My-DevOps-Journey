@@ -3,8 +3,8 @@ This is a tracker of my DevOps Journey - learning &amp; projects
 
 ### Courses
 
-| Status        | When          | Course        | Provider      | Keywords      |     
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Status   | When     | Course        | Provider      | Keywords      |     
+| -------- | -------- | ------------- | ------------- | ------------- |
 |    25%           | March 2019  | [Python 3 Scripting for System Administrators](https://linuxacademy.com/cp/modules/view/id/168) | [Linux Academy](https://linuxacademy.com/) / [Keith Thompson](https://linuxacademy.com/blog/linux-academy/employee-spotlight-keith-thompson-devops-training-architect/) | Python |
 |    100%           | February 2019  | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine/home/welcome) | [Coursera - by Google](https://www.coursera.org/learn/google-kubernetes-engine/home/welcome) | Google Kubernetes Engine<br>Jenkins<br>Spinaker<br>Canary Deployment |
 |    100%           | January - February 2019  | [Implementing a Full CI/CD Pipeline](https://linuxacademy.com/devops/training/course/name/implementing-a-full-ci-cd-pipeline) | [Linux Academy](https://linuxacademy.com/) / [Will Boyd](https://linuxacademy.com/blog/linuxacademy-com/behind-the-scenes/employee-spotlight-will-boyd-devops-training-architect/) | CI/CD<br>DevOps<br>Git<br>GitHub<br>Gradle<br>Jenkins<br>Docker<br>Kubernetes<br>Prometheus<br>Grafana<br>Self-Healing<br>Autoscaling<br> Canary Deployment |
@@ -16,3 +16,8 @@ This is a tracker of my DevOps Journey - learning &amp; projects
 |       100%        | October 2018  | [GCP - Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
 |      100%         | October 2018  | [GCP - Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
 |       100%        | October 2018  | [GCP - Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
+
+
+### Projects
+| When          | Project Description   | Responsibilites    | Technologies Used  |
+| ------------- | --------------------- | ------------------ | ------------------ |
