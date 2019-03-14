@@ -11,6 +11,7 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 - How to build a modern application architecture using microservices
 - How to use Google Cloud to achieve this
 - How GFT can help roll this architecture out in a highly regulated industry such as financial services
+
 <br><br>**Responsibilites**<br>
 - Deploying Jenkins GKE Cluster using Terraform and Helm
 - Implementing CI/CD pipeline using Jenkins:
@@ -20,6 +21,7 @@ The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 th
 4) full pipeline for Google Conference
 - Implementing autoscaling and health checks (liveness and readiness probes)
 - Implemented Grafana dashboard for autoscaling purpose
+
 <br><br>**Technologies Used**<br>
 - Kubernetes
 - Google Kubernetes Engine
