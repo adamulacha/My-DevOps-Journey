@@ -5,7 +5,8 @@ This is a tracker of my DevOps Journey - learning &amp; projects.
 ### Projects
 <br>**When**<br>
 February 2019 - 
-<br><br>**Project Description**<br>
+
+**Project Description**<br>
 Tranquility Base is the official GFT branding for the reference architecture project that started in October 2018.
 The goal of this project was to demonstrate on Google UK HQ on 7th March 2019 the following:
 - How to build a modern application architecture using microservices
