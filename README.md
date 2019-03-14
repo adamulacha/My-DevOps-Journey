@@ -1,5 +1,5 @@
-# My-DevOps-Journey
-This is a tracker of my DevOps Journey - learning &amp; projects.
+# My DevOps Journey
+This is a tracker of my DevOps Journey - projects & learning.
 ---
 
 ### Projects
@@ -77,6 +77,6 @@ Re-engineering of the client's Trade Surveillance platform for scalability, perf
 |       100%        | November 2018 | [Docker Quick Start](https://linuxacademy.com/devops/training/course/name/docker-quick-start) | [Linux Academy](https://linuxacademy.com/) / [Terence Cox](https://linuxacademy.com/blog/linuxacademy-com/employee-spotlight-terry-cox/) | Docker
 |       100%        | November 2018 | [Git Quick Start](https://linuxacademy.com/linux/training/course/name/git-quick-start) | [Linux Academy](https://linuxacademy.com/) / [Terence Cox](https://linuxacademy.com/blog/linuxacademy-com/employee-spotlight-terry-cox/) | Git
 |       100%        | October 2018  | [DevOps Essentials](https://linuxacademy.com/devops/training/course/name/devops-essentials-2018) | [Linux Academy](https://linuxacademy.com/) / [Will Boyd](https://linuxacademy.com/blog/linuxacademy-com/behind-the-scenes/employee-spotlight-will-boyd-devops-training-architect/) | DevOps,<br>Build Automation,<br>Continous Integration,<br>Continous Delivery,<br>Continous Deployment,<br>Infrastructure As Code,<br>Configuration Management,<br>Orchestration,<br>Monitoring,<br>Microservices,<br>Cloud
-|       100%        | October 2018  | [GCP - Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
-|      100%         | October 2018  | [GCP - Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
-|       100%        | October 2018  | [GCP - Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform |
+|       100%        | October 2018  | [GCP - Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform,<br>IAM,<br>Data Storage Services,<br>Resource Management,<br>Resource Monitoring |
+|      100%         | October 2018  | [GCP - Essential Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform,<br>Virtual Machines,<br>Virtual Networking,<br>|
+|       100%        | October 2018  | [GCP - Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform,<br>Virtual Machines,<br>Storage,<br>Containers,<br>Monitoring,<br>Big Data,<br>Machine Learning |
