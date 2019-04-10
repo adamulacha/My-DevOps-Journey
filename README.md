@@ -1,7 +1,9 @@
 # My DevOps Journey
 
-![Alt text](DevOps.png?raw=true "From Operations to DevOps")
+![alt text](DevOps.png?raw=true)
+
 source: https://newstime.gft.com/2019/04/exploring-new-paths-technology-change-stories-at-gft-poland/
+
 ---
 ### Projects
 **When**  
