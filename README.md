@@ -70,6 +70,8 @@ Re-engineering of the client's Trade Surveillance platform for scalability, perf
 
 | Status   | When     | Course        | Provider      | Keywords           |     
 | -------- | -------- | ------------- | ------------- | ------------------ |
+|    100%           | April 2019  | [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) | [Linux Academy](https://linuxacademy.com/) - [Stosh Oldham](https://www.linkedin.com/in/stosh-c-oldham) | Ansible |
+
 |    25%           | March 2019  | [Python 3 Scripting for System Administrators](https://linuxacademy.com/cp/modules/view/id/168) | [Linux Academy](https://linuxacademy.com/) - [Keith Thompson](https://linuxacademy.com/blog/linux-academy/employee-spotlight-keith-thompson-devops-training-architect/) | Python |
 |    100           | March 2019  | [Kubernetes Essentials](https://linuxacademy.com/cp/modules/view/id/281) | [Linux Academy](https://linuxacademy.com/) - [Will Boyd](https://linuxacademy.com/blog/linuxacademy-com/behind-the-scenes/employee-spotlight-will-boyd-devops-training-architect/) | Docker,<br>Kubernetes,<br>Bootstraping the cluster  |
 |    100%           | February 2019  | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine/home/welcome) | [Coursera - by Google](https://www.coursera.org/learn/google-kubernetes-engine/home/welcome) | Google Kubernetes Engine,<br>Jenkins,<br>Spinaker,<br>Canary Deployment |
