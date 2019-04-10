@@ -70,8 +70,8 @@ Re-engineering of the client's Trade Surveillance platform for scalability, perf
 * Linux
 ---
 **When**  
-August 2002 - September 2018 
-2nd / 3rd Line of Support in various projects 
+August 2002 - September 2018  
+2nd / 3rd Line of Support in various projects  
 More info on my [LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) profile
 
 ---
