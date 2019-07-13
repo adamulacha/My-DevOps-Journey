@@ -4,8 +4,6 @@
 
 source: https://newstime.gft.com/2019/04/exploring-new-paths-technology-change-stories-at-gft-poland/
 
-[LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) profile
-
 ---
 ### Projects
 More info on my [LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) profile
