@@ -15,9 +15,9 @@ More info on my [LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) pro
 
 | Status   | When     | Course        | Provider      | Keywords           |     
 | -------- | -------- | ------------- | ------------- | ------------------ |
-|    100%           | April 2019  | [Introduction to MSBuild](https://app.pluralsight.com/library/courses/msbuild) | [PluralSight](https://pluralsight.com/) - [David Starr](https://app.pluralsight.com/profile/author/david-starr) | MSBuild |
-|    100%           | April 2019  | [Microservices - the big picture](https://app.pluralsight.com/library/courses/microservices-big-picture) | [PluralSight](https://pluralsight.com/) - [Antonio Goncalvez](https://antoniogoncalves.org/about/) | Microservices |
-|    100%           | April 2019  | [Using GitFlow](https://app.pluralsight.com/library/courses/using-gitflow) | [PluralSight](https://pluralsight.com/) - [Kevin Jones](https://app.pluralsight.com/profile/author/kevin-jones) | Git,<br>Branching Strategy,<br>GitFlow |
+|    100%           | July 2019  | [Introduction to MSBuild](https://app.pluralsight.com/library/courses/msbuild) | [PluralSight](https://pluralsight.com/) - [David Starr](https://app.pluralsight.com/profile/author/david-starr) | MSBuild |
+|    100%           |  June 2019  | [Microservices - the big picture](https://app.pluralsight.com/library/courses/microservices-big-picture) | [PluralSight](https://pluralsight.com/) - [Antonio Goncalvez](https://antoniogoncalves.org/about/) | Microservices |
+|    100%           | June 2019  | [Using GitFlow](https://app.pluralsight.com/library/courses/using-gitflow) | [PluralSight](https://pluralsight.com/) - [Kevin Jones](https://app.pluralsight.com/profile/author/kevin-jones) | Git,<br>Branching Strategy,<br>GitFlow |
 |    100%           | May 2019  | [Cloud Foundry for Developers](https://app.pluralsight.com/library/courses/cloud-foundry-developers/) | [PluralSight](https://pluralsight.com/) - [Richard Seroter](https://seroter.wordpress.com/about/) | Cloud Foundry,<br>pcf,<br>YAML manifests |
 |    100%           | April 2019  | [Getting Started with TeamCity](https://app.pluralsight.com/library/courses/teamcity-getting-started) | [PluralSight](https://pluralsight.com/) - [Wes Higbee](https://www.weshigbee.com/bio/) | TeamCity,<br>Java (Maven),<br>.NET (MSBuild) |
 |    100%           | April 2019  | [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) | [Linux Academy](https://linuxacademy.com/) - [Stosh Oldham](https://www.linkedin.com/in/stosh-c-oldham) | Ansible |
