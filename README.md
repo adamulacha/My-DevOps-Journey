@@ -13,8 +13,6 @@ More info on my [LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) pro
 
 | Status   | When     | Course        | Provider      | Keywords           |     
 | -------- | -------- | ------------- | ------------- | ------------------ |
-
-
 |    100%           | July 2019  | [Introduction to MSBuild](https://app.pluralsight.com/library/courses/msbuild) | [PluralSight](https://pluralsight.com/) - [David Starr](https://app.pluralsight.com/profile/author/david-starr) | MSBuild |
 |    100%           |  June 2019  | [Microservices - the big picture](https://app.pluralsight.com/library/courses/microservices-big-picture) | [PluralSight](https://pluralsight.com/) - [Antonio Goncalvez](https://antoniogoncalves.org/about/) | Microservices |
 |    100%           | June 2019  | [Using GitFlow](https://app.pluralsight.com/library/courses/using-gitflow) | [PluralSight](https://pluralsight.com/) - [Kevin Jones](https://app.pluralsight.com/profile/author/kevin-jones) | Git,<br>Branching Strategy,<br>GitFlow |
