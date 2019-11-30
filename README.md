@@ -13,7 +13,7 @@ More info on my [LinkedIn](https://www.linkedin.com/in/adam-ulacha-3b96a75/) pro
 
 | Status   | When     | Course        | Provider      | Keywords           |     
 | -------- | -------- | ------------- | ------------- | ------------------ |
-| Passed | November 2019 | Google Associate Cloud Engineer certificate| ![alt text](ACE_badge.png?raw=true) | ------------------ |
+| Passed | 27th November 2019 | Google Associate Cloud Engineer certificate| ![alt text](ACE_badge.png?raw=true) | |
 |       100%        | November 2019 | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/cp/modules/view/id/238) | [Linux Academy](https://linuxacademy.com/) - [Ben Lambert](https://www.linkedin.com/in/sowhelmed/) | Google Cloud Platform |
 |       100%        | October 2019  | [GCP - Elastic Cloud Infrastructure: Containers and Services](https://www.coursera.org/learn/gcp-infrastructure-containers-services/)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform,<br>Containers,<br>Google Kubernetes Engine,<br>App Engine,<br>Cloud Functions,<br>Cloud Pub/Sub |
 |       100%        | October 2019  | [GCP - Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation/)       | [Coursera - by Google](https://www.coursera.org/programs/gcp-courses-gtm-sep18-u0w20) | Google Cloud Platform,<br>Networks,<br>Load Balancing,<br>Autoscaling,<br>Infrastructure Automation,<br>Managed Services |
